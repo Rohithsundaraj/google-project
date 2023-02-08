@@ -1,0 +1,93 @@
+.box{
+    border:1px solid gray;
+    height: 530px;
+    width: 530px;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 2%;
+}
+.image{
+    height: 30px;
+    width: 70px;
+    margin-left: 210px;
+    margin-top: 50px;
+}
+.sign{
+    color: black;
+    font-size: 25px;
+    margin-left: 210px;
+    font-weight: 400;
+
+}
+.continue{
+    color: black;
+    font-size: 20px;
+    margin-left: 155px;
+    font-weight: 300;
+}
+#email{
+    margin-top: 20px;
+    border: 1px solid gray;
+    margin-left: 70px;
+    height: 50px;
+    width: 390px;
+    border-radius: 1%;
+    
+    
+}
+.Forgot{
+    margin-left: 70px;
+    font-size: 20px;
+    color: rgb(5, 146, 202);
+    margin-top: 10px;
+}
+.line4{
+    color:  black;
+    margin-left: 70px;
+    margin-top: 50px;
+    font-size: 15px;
+    font-weight: 300;
+}
+.Learn{
+    margin-left: 70px;
+    font-size: 20px;
+    color: rgb(5, 146, 202);
+    
+}
+.create{
+    margin-left: 70px;
+    font-size: 20px;
+    color: rgb(5, 146, 202);
+    margin-top: 50px;
+    border: none;
+}
+.next{
+    margin-left: 150px;
+    font-size: 20px;
+    color: rgb(5, 146, 202);
+    margin-top: 50px;
+    border: 1px rgb(5, 146, 202) solid;
+    background-color: rgb(5, 146, 202);
+    color: white;
+    border-radius: 2px;
+    text-align: center;
+    width: 100px;
+}
+.location{
+    border: none;
+    margin-left: 500px;
+    margin-top: 10px;
+}
+.help{
+margin-left: 800px;
+margin-top: -20px;
+}
+.privacy{
+    margin-left: 850px;
+    margin-top: -26px;
+}
+.terms{
+    margin-left: 920px;
+    margin-top: -31px;
+
+}
